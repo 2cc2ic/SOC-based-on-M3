@@ -2,8 +2,12 @@
 
 
 
-block design:
+### Block Design
 
-![1](./picture/1.JPG)
+![block_design](./picture/block_design.jpg)
+
+### Design Flow
+
+![design_flow](./picture/design_flow.jpg)
 
 其他由于正在参赛中，待比赛结束开源。
