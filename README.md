@@ -10,4 +10,12 @@
 
 ![design_flow](./picture/design_flow.jpg)
 
-其他由于正在参赛中，待比赛结束开源。
+
+
+### System Architecture
+
+![design_flow](./picture/system_architecture.jpg)
+
+
+
+由于正在参赛中，待比赛结束开源。
