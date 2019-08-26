@@ -31,7 +31,7 @@
 
 ​	下图是vivado的block design。
 
-![block design](./picture/block design.jpg)
+![blockdesign](./picture/blockdesign.jpg)
 
 #### 2.1.3 内存映射
 
